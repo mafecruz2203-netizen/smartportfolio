@@ -15,3 +15,8 @@ venv/
 # OS files
 .DS_Store
 Thumbs.db
+
+.coverage
+htmlcov/
+.pytest_cache/
+__pycache__/
