@@ -1,0 +1,7 @@
+{
+    "ticker": "AAPL",
+    "precio_actual": 258.83,
+    "prediccion_7_dias": 284.05,
+    "cantidad": 5.0,
+    "alerta_riesgo": false
+}
